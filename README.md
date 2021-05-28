@@ -1,4 +1,4 @@
 # Optimization Technics and Applications
 
 ## Cart Pole Trajectory optimization Result
-![](Trajectory Optimization/Cart Pole/cart-Pole.jpg)
+![](Trajectory_Optimization/Cart_Pole/cart-Pole.jpg)
